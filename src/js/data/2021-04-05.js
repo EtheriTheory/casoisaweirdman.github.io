@@ -371,7 +371,7 @@ dataSet[dataSetVersion].characterData = [
   },
   {
     name: "Barack Obama",
-    img: "BarackObama.png",
+    img: "BarackOba,a.png",
     opts: {
       role: ["playable"],
       series: ["XC2"]
